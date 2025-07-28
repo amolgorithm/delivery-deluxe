@@ -165,7 +165,7 @@ To run Delivery Deluxe, you need the following Python packages:
 
 ## Support
 
-If you encounter any issues or require further assistance with Delivery Deluxe (GTA 5.5), please feel free to contact the developer:
+If you encounter any issues or require further assistance with Delivery Deluxe, please feel free to contact the developer:
 
 **Amol Sriprasadh:**
  [asrip2@ocdsb.ca](mailto:asrip2@ocdsb.ca)
