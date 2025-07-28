@@ -136,20 +136,16 @@ The autopilot is a convenient but costly feature to assist you with deliveries.
 To run Delivery Deluxe, you need the following Python packages:
 
 * **Panda3D:** The open-source game engine used to build the game.
-
     ```bash
-    pip install panda3d
+    pip install panda3d=1.10.15
     ```
+## Usage
 
-* **grid_map.py:** This is a custom Python module responsible for generating the game's road network and defining various locations. Ensure this file is placed in the same directory as `main.py`.
+Open a terminal and go to the project directory. Run the application:
 
-## Known Bugs
-
-* **Autopilot Grid Snapping:** The autopilot's pathfinding is based on a grid system. Occasionally, the car might appear to "snap" or slightly jiggle when transitioning precisely onto a new grid cell, particularly at intersections. This is a visual artifact of the grid-based movement and does not affect core physics or navigation.
-
-* **NPC Physics Interactions:** While NPCs have collision bodies, their interaction with the player's car is simplified. They may sometimes get "stuck" against the car or other objects due to simple physics rather than complex AI avoidance.
-
-* **Minor Visual Glitches:** Due to early development, you might encounter minor visual glitches such as occasional texture flickering or z-fighting (where two surfaces occupy the same space, causing flickering).
+```bash
+python main.py
+```
 
 ## Cheat Codes
 
@@ -168,7 +164,7 @@ To run Delivery Deluxe, you need the following Python packages:
 If you encounter any issues or require further assistance with Delivery Deluxe, please feel free to contact the developer:
 
 **Amol Sriprasadh:**
- [asrip2@ocdsb.ca](mailto:asrip2@ocdsb.ca)
+ [amol.unique@gmail.com](mailto:amol.unique@gmail.com)
 
 ## Sources
 
