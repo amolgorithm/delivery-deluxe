@@ -133,7 +133,7 @@ The autopilot is a convenient but costly feature to assist you with deliveries.
 
 ## Installation
 
-To run Delivery Deluxe (GTA 5.5), you need the following Python packages:
+To run Delivery Deluxe, you need the following Python packages:
 
 * **Panda3D:** The open-source game engine used to build the game.
 
